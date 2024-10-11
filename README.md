@@ -1,4 +1,4 @@
-# Microsoft-Azure-WindowsServer-2019
+# Microsoft-Azure-WindowsServer-2019-Lab
 ## Microsoft Azure Windows Server 2019 Lab
  
 ### Lab:

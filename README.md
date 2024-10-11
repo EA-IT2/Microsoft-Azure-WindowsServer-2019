@@ -16,3 +16,10 @@ For the full pdf version of this lab click on the link below, when viewing keep 
 
 ### Software used:
 Microsoft Azure: to run Windows Server 2019
+
+
+<br>
+<img src="img/1vm.png" width="900">
+<br>
+<br>
+<img src="img/2ai.png" width="900">

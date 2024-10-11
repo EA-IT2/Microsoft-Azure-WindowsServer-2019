@@ -23,3 +23,9 @@ Microsoft Azure: to run Windows Server 2019
 <br>
 <br>
 <img src="img/2ai.png" width="900">
+
+<img src="img/3uc.png" width="900">
+<img src="img/4sf.png" width="900">
+<img src="img/5ei.png" width="900">
+<img src="img/6gp.png" width="900">
+

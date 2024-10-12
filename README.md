@@ -8,14 +8,14 @@
 <li>Enabled downloading on Internet explorer to download Google Chrome and enabled the recycle bin
 <li>Checked Group Policy settings
 
+### Software used:
+Microsoft Azure: to run Windows Server 2019
 
+### Lab pdf:
 For the full pdf version of this lab click on the link below, when viewing keep pressing more pages button or if the more pages button disappears press the git hub logo that is loading. 
 
 [Your Link Here](https://github.com/EA-IT2/Microsoft-Azure-WindowsServer-2019/blob/main/Home%20Lab%20using%20Azure.pdf)
 
-
-### Software used:
-Microsoft Azure: to run Windows Server 2019
 
 <br>
 <img src="img/1vm.png" width="900">
